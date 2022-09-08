@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m a senior undergraduate majoring in big data ☺
+- 🌱 I’m in my first year of postgraduate, obtained bachelor's degree majoring in big data ☺
+- 🔭 I’m currently working on code intelligence
