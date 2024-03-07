@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -  🔭I’m currently working on code intelligence. Specially, I focus on the nl2vis task, which involves generating visualizations through natural language basis on tabular data. In the future, I plan to explore the ai in the field of tabular data and vis language.
 -->
 
--  🌱 I'm a second-year master’s student majoring in computer science 🙂.
+-  🌱 I'm a second-year master’s student majoring in computer science 🙂
 -  🔭 I’m currently working on code intelligence, with a special focus on the nl2vis task, which involves generating visualizations based on tabular data through natural language processing. In the future, I plan to explore AI applications in the field of tabular data and visualization languages.
 -  🏠 For more information about my projects and background, please visit my personal website at [here](https://yang-emily.github.io/).
 -  📇 You’re welcome to download my CV [here]().
