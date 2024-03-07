@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 -  🏠 For more information about my projects and background, please visit my personal website at [here](https://yang-emily.github.io/).
 
 ```diff
-I am actively seeking a PhD position in SE for 2025 fall. You’re welcome to download my CV [here]().
++ I am actively seeking a PhD position in SE for 2025 fall.
+
+You’re welcome to download my CV [here]().
