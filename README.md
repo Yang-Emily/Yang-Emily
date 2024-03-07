@@ -1,6 +1,6 @@
 ### Hi there.  Nice to meet u～
 ```diff
-+ I am actively seeking a PhD position in SE for 2025 fall.
+! I am actively seeking a PhD position in SE for 2025 fall.
 ```
 <!--
 **Yang-Emily/Yang-Emily** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
