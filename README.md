@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -  Pronouns: ...
 -  Fun fact: ...
 -  🌱I'm a second-year master’s student majoring in computer science 🙂
--  🔭I’m currently working on code intelligence. Specially, I focus on the nl2vis task, which involves generating visualizations through natural language basis on tabular data. In the future, I plan to explore the ai in the field of tabular data and vis language.
+-  🔭I’m currently working on code intelligence. Specially, I focus on the NL2Vis task, which involves generating visualizations through natural language basis on tabular data. In the future, I plan to explore the ai in the field of tabular data and vis language.
 -->
 
 -  🌱 I'm a second-year master’s student majoring in computer science.
