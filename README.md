@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 -  📇 You’re welcome to download my CV [here](https://yang-emily.github.io/assets/YangWu_CV.pdf).
 -->
 
--  🌱 I'm Yang Wu, a first-year PhD student in the ETH Zurich – EPFL Joint Doctoral Program in Learning Sciences. 
+-  🌱 I'm Yang Wu, a first-year PhD student in the ETH Zurich. 
 -  🔭 I’m currently working on programming education.
 -  🏠 For more information about my projects and background, please visit my [personal website](https://yang-emily.github.io/).
